@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "hostname": "PC-001",
+    "type": "Laptop",
+    "os": "Windows 10",
+    "macAddress": "00:1A:2B:3C:4D:5E"
+  },
+  {
+    "id": 2,
+    "hostname": "PC-002",
+    "type": "Laptop",
+    "os": "Ubuntu 22.04",
+    "macAddress": "00:1A:2B:3C:4D:6F"
+  },
+  {
+    "id": 3,
+    "hostname": "PC-003",
+    "type": "Desktop",
+    "os": "Windows 22.04",
+    "macAddress": "00:1A:2B:3C:4D:87"
+  },
+  {
+    "id": 4,
+    "hostname": "PC-004",
+    "type": "Tablet",
+    "os": "Windows 10",
+    "macAddress": "00:6A:2B:3C:7L:6F"
+  },
+  {
+    "id": 5,
+    "hostname": "PC-005",
+    "type": "Smartphone",
+    "os": "Linux 27",
+    "macAddress": "00:1A:2B:3C:4D:7O"
+  },
+  {
+    "id": 6,
+    "hostname": "PC-006",
+    "type": "Smartphone",
+    "os": "Linux 27",
+    "macAddress": "00:1A:2B:3C:77:L3"
+  }
+]
