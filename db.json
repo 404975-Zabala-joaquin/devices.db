@@ -1,44 +1,144 @@
-"devices": [
-  {
-    "id": 1,
-    "hostname": "PC-001",
-    "type": "Laptop",
-    "os": "Windows 10",
-    "macAddress": "00:1A:2B:3C:4D:5E"
-  },
-  {
-    "id": 2,
-    "hostname": "PC-002",
-    "type": "Laptop",
-    "os": "Ubuntu 22.04",
-    "macAddress": "00:1A:2B:3C:4D:6F"
-  },
-  {
-    "id": 3,
-    "hostname": "PC-003",
-    "type": "Desktop",
-    "os": "Windows 22.04",
-    "macAddress": "00:1A:2B:3C:4D:87"
-  },
-  {
-    "id": 4,
-    "hostname": "PC-004",
-    "type": "Tablet",
-    "os": "Windows 10",
-    "macAddress": "00:6A:2B:3C:7L:6F"
-  },
-  {
-    "id": 5,
-    "hostname": "PC-005",
-    "type": "Smartphone",
-    "os": "Linux 27",
-    "macAddress": "00:1A:2B:3C:4D:7O"
-  },
-  {
-    "id": 6,
-    "hostname": "PC-006",
-    "type": "Smartphone",
-    "os": "Linux 27",
-    "macAddress": "00:1A:2B:3C:77:L3"
-  }
-]
+{
+  "devices": [
+    {
+      "id": 1,
+      "hostname": "PC-001",
+      "type": "laptop",
+      "os": "Windows 10",
+      "macAddress": "00:1A:2B:3C:4D:5E"
+    },
+    {
+      "id": 2,
+      "hostname": "PC-002",
+      "type": "laptop",
+      "os": "Ubuntu 22.04",
+      "macAddress": "00:1A:2B:3C:4D:6F"
+    },
+    {
+      "id": 3,
+      "hostname": "PC-003",
+      "type": "desktop",
+      "os": "Windows 11",
+      "macAddress": "00:1A:2B:3C:4D:87"
+    },
+    {
+      "id": 4,
+      "hostname": "PC-004",
+      "type": "tablet",
+      "os": "Windows 10",
+      "macAddress": "00:6A:2B:3C:7L:6F"
+    },
+    {
+      "id": 5,
+      "hostname": "PC-005",
+      "type": "smartphone",
+      "os": "Linux 27",
+      "macAddress": "00:1A:2B:3C:4D:7O"
+    },
+    {
+      "id": 6,
+      "hostname": "PC-006",
+      "type": "smartphone",
+      "os": "Android 13",
+      "macAddress": "00:1A:2B:3C:77:L3"
+    },
+    {
+      "id": 7,
+      "hostname": "PC-007",
+      "type": "desktop",
+      "os": "Debian 11",
+      "macAddress": "00:1A:2B:3C:4D:91"
+    },
+    {
+      "id": 8,
+      "hostname": "PC-008",
+      "type": "laptop",
+      "os": "MacOS 14",
+      "macAddress": "00:1A:2B:3C:4D:92"
+    },
+    {
+      "id": 9,
+      "hostname": "PC-009",
+      "type": "desktop",
+      "os": "Windows 10",
+      "macAddress": "00:1A:2B:3C:4D:93"
+    },
+    {
+      "id": 10,
+      "hostname": "PC-010",
+      "type": "tablet",
+      "os": "iOS 17",
+      "macAddress": "00:1A:2B:3C:4D:94"
+    },
+    {
+      "id": 11,
+      "hostname": "PC-011",
+      "type": "laptop",
+      "os": "Windows 11",
+      "macAddress": "00:1A:2B:3C:4D:95"
+    },
+    {
+      "id": 12,
+      "hostname": "PC-012",
+      "type": "smartphone",
+      "os": "Android 12",
+      "macAddress": "00:1A:2B:3C:4D:96"
+    },
+    {
+      "id": 13,
+      "hostname": "PC-013",
+      "type": "desktop",
+      "os": "Ubuntu 20.04",
+      "macAddress": "00:1A:2B:3C:4D:97"
+    },
+    {
+      "id": 14,
+      "hostname": "PC-014",
+      "type": "laptop",
+      "os": "CentOS 8",
+      "macAddress": "00:1A:2B:3C:4D:98"
+    },
+    {
+      "id": 15,
+      "hostname": "PC-015",
+      "type": "tablet",
+      "os": "Android 10",
+      "macAddress": "00:1A:2B:3C:4D:99"
+    },
+    {
+      "id": 16,
+      "hostname": "PC-016",
+      "type": "smartphone",
+      "os": "Android 14",
+      "macAddress": "00:1A:2B:3C:4D:AA"
+    },
+    {
+      "id": 17,
+      "hostname": "PC-017",
+      "type": "desktop",
+      "os": "Windows 10",
+      "macAddress": "00:1A:2B:3C:4D:AB"
+    },
+    {
+      "id": 18,
+      "hostname": "PC-018",
+      "type": "laptop",
+      "os": "Arch Linux",
+      "macAddress": "00:1A:2B:3C:4D:AC"
+    },
+    {
+      "id": 19,
+      "hostname": "PC-019",
+      "type": "desktop",
+      "os": "Windows Server 2022",
+      "macAddress": "00:1A:2B:3C:4D:AD"
+    },
+    {
+      "id": 20,
+      "hostname": "PC-020",
+      "type": "laptop",
+      "os": "MacOS 12",
+      "macAddress": "00:1A:2B:3C:4D:AE"
+    }
+  ]
+}
